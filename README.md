@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=OussamaNairi)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=OussamaNairi" alt="OussamaNairi" /> </p>
 ### Hi there, I'm Oussama👦
 
 [Website](https://oussamanairi.com/) |
