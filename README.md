@@ -1,7 +1,7 @@
 
-### Hi there, I'm Oussama👦
+### Hi there, I'm Oussama👦 <p align="right"> <img src="https://komarev.com/ghpvc/?username=OussamaNairi" alt="OussamaNairi" /> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=OussamaNairi" alt="OussamaNairi" /> </p>
+
 [Website](https://oussamanairi.com/) |
 [Blog](https://medium.com/@oussamanairi) |
 [Twitter](https://twitter.com/TNOussamaTN) |
