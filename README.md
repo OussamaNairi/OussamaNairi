@@ -9,9 +9,9 @@
 
 ---
 
-A Software engineer with 1+ years of experience and a desire to solve problems. Interested in development scalable web applications. 
+A Software engineer with 2+ years of experience and a desire to solve problems. Interested in development scalable web applications. 
 
-- 🔭 I’m currently working on **Symfony** ,**Java/JavaEE**, **WSO2**, **PostgreSQL**, **MySQL**, **MongoDB**, **Docker**, **Jenkins**, **Micro-services Architecture**
+- 🔭 I’m currently working on **WSO2 Integration** ,**Java/JavaEE**, **WSO2 API Management**, **PostgreSQL**, **MySQL**, **MongoDB**, **Docker**, **Jenkins**, **Micro-services Architecture**
 - 🌱 I’m currently learning **Cloud (AWS, GCP)**, **System Design**
 - 👯 I’m looking to collaborate on **WSO2**, **DevOps** projects 
 - 🤔 I’m looking for help with **Cloud Deployment**
